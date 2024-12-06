@@ -44,17 +44,11 @@ public class p4179 {
         }
 
         fireBFS(fires);
-        int answer = jhBFS(jh);
+        jhBFS(jh);
 
-        if (answer == Integer.MAX_VALUE) {
-            System.out.println("IMPOSSIBLE");
-        } else {
-            System.out.println(answer);
-        }
     }
 
-    private static int jhBFS(int[] pos) {
-        int answer = Integer.MAX_VALUE;
+    private static void jhBFS(int[] pos) {
         int[] dirX = {-1, 0, 1, 0};
         int[] dirY = {0, -1, 0, 1};
         Queue<int[]> queue = new LinkedList<>();
@@ -69,8 +63,9 @@ public class p4179 {
                 int nextY = poll[1] + dirY[i];
 
                 if (nextX < 0 || nextX >= row || nextY < 0 || nextY >= col) {
-                    answer = Math.min(answer, escapeTime[poll[0]][poll[1]] + 1);
-                    continue;
+                    // 탈출 성공, BFS는 거리 순으로 노드가 담기기 때문에, 이 조건에서 걸리면 외곽으로 탈출 성공했음을 의미.
+                    System.out.println(escapeTime[poll[0]][poll[1]] + 1);
+                    return;
                 }
 
                 if (fireTime[nextX][nextY] != -1 && fireTime[nextX][nextY] <= escapeTime[poll[0]][poll[1]] + 1) {
@@ -85,7 +80,7 @@ public class p4179 {
                 escapeTime[nextX][nextY] = escapeTime[poll[0]][poll[1]] + 1;
             }
         }
-        return answer;
+        System.out.println("IMPOSSIBLE"); // 탈출 실패
     }
 
     private static void fireBFS(List<int[]> fires) {
