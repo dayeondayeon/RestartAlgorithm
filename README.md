@@ -12,6 +12,11 @@
 | 백준 | [7562](https://www.acmicpc.net/problem/7562) | 방향만 잘 잡으면 되는 기본적인 BFS |
 | 백준 | [6593](https://www.acmicpc.net/problem/6593) | 3차원 BFS | 
 
+## Recursion
+| 플랫폼 | 문제 | 대략 설명 |
+| ---- | --- | ------- |
+| 백준 | [1629](https://www.acmicpc.net/problem/1629) | 지수 2k인 경우를 구한다고 했을 때 k를 재귀로 계산 후 그 값을 다시 곱해서 2k를 구하기 |
+
 ## DP
 | 플랫폼 | 문제 | 대략 설명 |
 | ---- | --- | ------- |
