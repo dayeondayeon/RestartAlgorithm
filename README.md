@@ -37,3 +37,4 @@
 | 백준 | [1149](https://www.acmicpc.net/problem/1149) | DP[i][j] : i번쨰 집을 j컬러로 칠했을 때 최소비용 |
 | 백준 | [11726](https://www.acmicpc.net/problem/11726) | DP[i] = DP[i-1](왼쪽이 1*2짜리 사각형) + DP[i-2](왼쪽이 2*1짜리 사각형) |
 | 백준 | [11659](https://www.acmicpc.net/problem/11659) | DP[i] = i까지의 숫자 합, i부터 j까지의 구간합은 DP[j] - DP[i-1] |
+| 백준 | [12852](https://www.acmicpc.net/problem/12852) | pre 배열 만들어두고 이전에 어디가 최적의 경로인지를 저장하고 출력하기 |
