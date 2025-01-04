@@ -11,6 +11,7 @@
 | 백준 | [13913](https://www.acmicpc.net/problem/13913) | 이전 방문 점 저장하기, 데크에 넣고 스택처럼 역순으로 꺼내기 |
 | 백준 | [7562](https://www.acmicpc.net/problem/7562) | 방향만 잘 잡으면 되는 기본적인 BFS |
 | 백준 | [6593](https://www.acmicpc.net/problem/6593) | 3차원 BFS | 
+| 백준 | [3197](https://www.acmicpc.net/problem/3197) | 물이 된 칸들 대상으로 주변 얼음을 녹이기, while(!water.isEmpty()) 하면 계속 탐색하니까 water.size 만큼만 탐색(하루에 녹는양) |
 
 ## Recursion
 | 플랫폼 | 문제 | 대략 설명 |
