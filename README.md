@@ -34,3 +34,4 @@
 | 백준 | [1463](https://www.acmicpc.net/problem/1463) | DP[i] = i를 1로 만들기 위해 필요한 연산 사용 횟수의 최솟값 |
 | 백준 | [9095](https://www.acmicpc.net/problem/9095) | DP[i] = DP[i-1] + DP[i-2] + DP[i-3] | 
 | 백준 | [2579](https://www.acmicpc.net/problem/2579) | DP[i][j] : i번째 계단 포함 현재까지 j개의 계단을 연속해서 밟았을 때 점수 합의 최대값 | 
+| 백준 | [1149](https://www.acmicpc.net/problem/1149) | DP[i][j] : i번쨰 집을 j컬러로 칠했을 때 최소비용 |
