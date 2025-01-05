@@ -38,3 +38,4 @@
 | 백준 | [11726](https://www.acmicpc.net/problem/11726) | DP[i] = DP[i-1](왼쪽이 1*2짜리 사각형) + DP[i-2](왼쪽이 2*1짜리 사각형) |
 | 백준 | [11659](https://www.acmicpc.net/problem/11659) | DP[i] = i까지의 숫자 합, i부터 j까지의 구간합은 DP[j] - DP[i-1] |
 | 백준 | [12852](https://www.acmicpc.net/problem/12852) | pre 배열 만들어두고 이전에 어디가 최적의 경로인지를 저장하고 출력하기 |
+| 백준 | [9461](https://www.acmicpc.net/problem/9461) | DP[i] : 나선에서 가장 긴 변 길이, DP[i] = DP[i-2] + DP[i-3] , long 처리 필요 |
