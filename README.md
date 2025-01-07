@@ -40,3 +40,4 @@
 | 백준 | [12852](https://www.acmicpc.net/problem/12852) | pre 배열 만들어두고 이전에 어디가 최적의 경로인지를 저장하고 출력하기 |
 | 백준 | [9461](https://www.acmicpc.net/problem/9461) | DP[i] : 나선에서 가장 긴 변 길이, DP[i] = DP[i-2] + DP[i-3] , long 처리 필요 |
 | 백준 | [1932](https://www.acmicpc.net/problem/1932) | List 형태로 DP 배열, DP[i].add(Math.max(DP[i-1].get(j-1), DP[i-1].get(j)) + num[i].get(j)) |
+| 백준 | [11053](https://www.acmicpc.net/problem/11053) | 다시 풀기, 2중 for문 통해 DP = i에서의 증가 부분 수열 최대길이가 맞는 지 확인 |
