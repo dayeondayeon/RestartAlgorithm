@@ -43,3 +43,8 @@
 | 백준 | [11053](https://www.acmicpc.net/problem/11053) | 다시 풀기, 2중 for문 통해 DP = i에서의 증가 부분 수열 최대길이가 맞는 지 확인 |
 | 백준 | [11055](https://www.acmicpc.net/problem/11055) | DP[i] : 각 원소 값으로 초기화, i위치에서 합이 최대값인 부분수열의 합 |
 | 백준 | [2294](https://www.acmicpc.net/problem/2294) | DP 배열 설정시 동전의 금액이 k보다 클수 있으므로 배열 크기에 주의 |
+
+## Simulation
+| 플랫폼 | 문제 | 대략 설명 |
+| ---- | --- | ------- |
+| 백준 | [15683](https://www.acmicpc.net/problem/15683) | 카메라 개수 k라 하면 0 ~ 4^k-1로 각 카메라 끼리의 방향 조합을 구할 수 있음 |
