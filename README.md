@@ -48,3 +48,4 @@
 | 플랫폼 | 문제 | 대략 설명 |
 | ---- | --- | ------- |
 | 백준 | [15683](https://www.acmicpc.net/problem/15683) | 카메라 개수 k라 하면 0 ~ 4^k-1로 각 카메라 끼리의 방향 조합을 구할 수 있음 |
+| 백준 | [18808](https://www.acmicpc.net/problem/18808) | 배열 회전시키기, break-for 루프 중첩문 부분 로직 잘 살필것 : flag 방식으로 attached = true면 루프 나오기 |
