@@ -51,3 +51,9 @@
 | 백준 | [18808](https://www.acmicpc.net/problem/18808) | 배열 회전시키기, break-for 루프 중첩문 부분 로직 잘 살필것 : flag 방식으로 attached = true면 루프 나오기 |
 | 백준 | [12100](https://www.acmicpc.net/problem/12100) | 기존의 배열 회전시키기, 카메라 방향조합 찾기 재탕, tilt 메소드에 대해 다시 이해하기 |
 | 백준 | [15686](https://www.acmicpc.net/problem/15686) | 조합을 구하는 부분만 잘 기억하기 |
+
+
+## 자유 문제 풀이
+| 플랫폼 | 문제 | 문제 유형 | 대략 설명 |
+| ---- | --- | ------- | ------- | 
+| 백준 | [13144](https://www.acmicpc.net/problem/13144) | 투 포인터 | 갹 end마다 가능한 부분수열 개수 end-start+1, 중복 숫자 발견시 없어질때까지 start++, long으로 카운팅 |
