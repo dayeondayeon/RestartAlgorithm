@@ -43,6 +43,7 @@
 | 백준 | [11053](https://www.acmicpc.net/problem/11053) | 다시 풀기, 2중 for문 통해 DP = i에서의 증가 부분 수열 최대길이가 맞는 지 확인 |
 | 백준 | [11055](https://www.acmicpc.net/problem/11055) | DP[i] : 각 원소 값으로 초기화, i위치에서 합이 최대값인 부분수열의 합 |
 | 백준 | [2294](https://www.acmicpc.net/problem/2294) | DP 배열 설정시 동전의 금액이 k보다 클수 있으므로 배열 크기에 주의 |
+| 백준 | [2225](https://www.acmicpc.net/problem/2225) | DP는 long으로 초기화, D[i][j-1] + D[i-1][j-1] …D[i-2][j-1]…D[0][j-1] |
 
 ## Simulation
 | 플랫폼 | 문제 | 대략 설명 |
