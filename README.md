@@ -62,6 +62,7 @@
 | 백준 | [18870](https://www.acmicpc.net/problem/18870) | 배열 정렬 - 배열의 중복 제거 후 이분탐색을 통해 각 숫자의 인덱스를 확인 |
 | 백준 | [2295](https://www.acmicpc.net/problem/2295) | 2개의 수를 미리 묶은 후, 원본 배열에서 나머지 한 수 골라서 뺀 값이 2개 묶은 배열에 존재하는지 판단하여 갱신 / 또는 Hash 응용하여 이분탐색 없이 풀기도 함 |
 | 백준 | [1654](https://www.acmicpc.net/problem/1654) | 기본적인 parametric Search 문제 |
+| 백준 | [2467](https://www.acmicpc.net/problem/2467) | 투포인터 기반의 이분탐색 문제 |
 
 ## 자유 문제 풀이
 | 플랫폼 | 문제 | 문제 유형 | 대략 설명 |
