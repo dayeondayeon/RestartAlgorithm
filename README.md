@@ -26,6 +26,7 @@
 | 백준 | [15649](https://www.acmicpc.net/problem/15649) | 순열은 index부터 반복문 도는게 아니고 1부터 계속 도는것! |
 | 백준 | [9663](https://www.acmicpc.net/problem/9663) | 대각선 상에 있는지 여부는 방문배열로 만들어둔 x+y, x-y+(n-1) 값 가지고 비교 |
 | 백준 | [1182](https://www.acmicpc.net/problem/1182) | n개의 원소를 가진 부분수열은 그 원소를 넣을지 / 말지 2가지 경우라 2^n -> 넣는 경우, 안 넣는 경우 각각에 재귀호출 |
+| 백준 | [6603](https://www.acmicpc.net/problem/6603) | 사용 된 원소는 backtracking 대상에서 제외하는 if 조건 까먹지 않기 |
 
 ## DP
 | 플랫폼 | 문제 | 대략 설명 |
