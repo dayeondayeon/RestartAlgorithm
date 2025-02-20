@@ -22,6 +22,8 @@ public class p1182 {
         }
 
         count(0, 0);
+        if (s == 0)
+            answer -= 1;
         System.out.println(answer);
     }
 
@@ -29,8 +31,8 @@ public class p1182 {
         if (index == n) {
             if (sum == s) {
                 answer++;
-                return;
             }
+            return;
         }
         count(index+1, sum); // 더하지 않은 경우
         count(index+1, sum + num[index]); // 더한 경우
