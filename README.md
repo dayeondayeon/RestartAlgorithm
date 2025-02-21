@@ -29,6 +29,7 @@
 | 백준 | [6603](https://www.acmicpc.net/problem/6603) | 사용 된 원소는 backtracking 대상에서 제외하는 if 조건 까먹지 않기 |
 | 백준 | [15650](https://www.acmicpc.net/problem/15650) | 기본적인 순열 구하는 문제 |
 | 백준 | [15651](https://www.acmicpc.net/problem/15651) | 중복이 가능하므로 used 배열 사용 안함, index 없이 for문은 1부터 시작 |
+| 백준 | [15652](https://www.acmicpc.net/problem/15652) | 중복은 가능하나, 순서가 바뀐 수열은 동일하게 취급 |
 
 ## DP
 | 플랫폼 | 문제 | 대략 설명 |
