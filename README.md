@@ -67,6 +67,7 @@
 | 백준 | [2295](https://www.acmicpc.net/problem/2295) | 2개의 수를 미리 묶은 후, 원본 배열에서 나머지 한 수 골라서 뺀 값이 2개 묶은 배열에 존재하는지 판단하여 갱신 / 또는 Hash 응용하여 이분탐색 없이 풀기도 함 |
 | 백준 | [1654](https://www.acmicpc.net/problem/1654) | 기본적인 parametric Search 문제 |
 | 백준 | [2467](https://www.acmicpc.net/problem/2467) | 투포인터 기반의 이분탐색 문제 |
+| 백준 | [7453](https://www.acmicpc.net/problem/7453) | 2295번 문제의 응용, lower-upper 찾아서 개수 세기, 그리고 answer은 long일 가능성이 있다는것을 기억하기 |
 
 ## 자유 문제 풀이
 | 플랫폼 | 문제 | 문제 유형 | 대략 설명 |
