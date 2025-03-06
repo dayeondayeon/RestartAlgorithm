@@ -85,3 +85,4 @@
 | 백준 | [13144](https://www.acmicpc.net/problem/13144) | 투 포인터 | 갹 end마다 가능한 부분수열 개수 end-start+1, 중복 숫자 발견시 없어질때까지 start++, long으로 카운팅 |
 | 백준 | [14002](https://www.acmicpc.net/problem/14002) | 동적계획법 | DP[n-1][0]이 무조건 최장길이라는 보장이 없으므로 한번더 반복문 돌면서 최장길이 찾아야 함 |
 | 백준 | [12865](https://www.acmicpc.net/problem/12865) | 동적계획법 | 냅색 문제, DP초기화 시 뒤에서부터 weight[i]로 초기화해야 물건 중복선택을 방지할 수 있다(같은 물건 2번챙기기 안됨 |
+| 백준 | [1477](https://www.acmicpc.net/problem/1477) | Paremetric Search | 휴게소가 아예 없을 때를 위해 시작 & 끝 넣어주기, gap - 1/ distance 해야한다. 10/3 같은 경우 휴게소 4개 필요, 추가할 휴게소 개수 올림 필요 |
