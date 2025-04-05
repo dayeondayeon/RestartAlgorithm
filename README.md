@@ -91,6 +91,11 @@
 | 백준 | [7785](https://www.acmicpc.net/problem/7785) | 단순 해시 문제 |
 | 백준 | [1620](https://www.acmicpc.net/problem/1620) | 해시 맵 2개 이용 |
 
+## BinarySearchTree 
+| 플랫폼 | 문제 | 대략 설명 |
+| ---- |----| ------- |
+| 백준 | [7662](https://www.acmicpc.net/problem/7662) | 중복 원소 삽입이 가능하므로 TreeMap 사용 |
+
 ## 자유 문제 풀이
 | 플랫폼 | 문제 | 문제 유형 | 대략 설명 |
 | ---- | --- | ------- | ------- | 
