@@ -97,6 +97,11 @@
 | 백준 | [7662](https://www.acmicpc.net/problem/7662) | 중복 원소 삽입이 가능하므로 TreeMap 사용 |
 | 백준 | [1202](https://www.acmicpc.net/problem/1202) | TreeMap<Integer, List> 형태, 보석도 가방도 중복이 가능하다.. |
 
+## PriorityQueue
+| 플랫폼 | 문제 | 대략 설명 |
+| ---- |----| ------- |
+| 백준 | [1927](https://www.acmicpc.net/problem/1927) | 최소 힙 직접 구현해보기 |
+
 ## 자유 문제 풀이
 | 플랫폼 | 문제 | 문제 유형 | 대략 설명 |
 | ---- | --- | ------- | ------- | 
