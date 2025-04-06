@@ -102,6 +102,7 @@
 | ---- |----| ------- |
 | 백준 | [1927](https://www.acmicpc.net/problem/1927) | 최소 힙 직접 구현해보기 |
 | 백준 | [11286](https://www.acmicpc.net/problem/11286) | 우선순위 큐의 comparing 메소드 잘 작성해서 풀기 |
+| 백준 | [1715](https://www.acmicpc.net/problem/1715) | 우선순위 큐로 카드 비교하면서 넣기, 원소 2개 이상 남아있는 경우에만 poll |
 
 ## 자유 문제 풀이
 | 플랫폼 | 문제 | 문제 유형 | 대략 설명 |
