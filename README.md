@@ -121,3 +121,4 @@
 | 백준 | [1477](https://www.acmicpc.net/problem/1477) | Paremetric Search | 휴게소가 아예 없을 때를 위해 시작 & 끝 넣어주기, gap - 1/ distance 해야한다. 10/3 같은 경우 휴게소 4개 필요, 추가할 휴게소 개수 올림 필요 |
 | 백준 | [2169](https://www.acmicpc.net/problem/2169) | 동적계획법 | left, right배열 만들어두고, 한줄한줄 왼쪽 / 오른쪽 각각에서 출발하는 경우 찾아서 max 비교 후 DP 채워넣기 |
 | 프로그래머스 | [아이템줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694?language=java) | BFS | 경계선, 내부를 나누기 위해 좌표를 2배 확장한 것, 방문 배열을 -1로 초기화, 모서리는 1 내부는 2 이런식으로 map 초기화 |
+| 백준 | [3079](https://www.acmicpc.net/problem/3079) | Parametric Search | 최소값 찾는 경우에는 return start, answer을 구하는 와중에도 long overflow.....가 날 수 있음; |
