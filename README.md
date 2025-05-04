@@ -49,6 +49,7 @@
 | 백준 | [2294](https://www.acmicpc.net/problem/2294) | DP 배열 설정시 동전의 금액이 k보다 클수 있으므로 배열 크기에 주의 |
 | 백준 | [2225](https://www.acmicpc.net/problem/2225) | DP는 long으로 초기화, D[i][j-1] + D[i-1][j-1] …D[i-2][j-1]…D[0][j-1] |
 | 백준 | [15989](https://www.acmicpc.net/problem/15989) | DP[i] = DP[i-1] + DP[i-2] - DP[i-3], i % 3 == 0이라면 +1도 |
+| 백준 | [9084](https://www.acmicpc.net/problem/9084) | DP[i][j] : i번째 동전까지 썼을 때 j원 만들 수 있는 방법, 동전의 사용순서를 강제하여 같은 방법이 여러 번 카운트되는것 방지 |
 
 ## Simulation
 | 플랫폼 | 문제 | 대략 설명 |
