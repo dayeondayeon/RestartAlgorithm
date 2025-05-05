@@ -49,7 +49,9 @@
 | 백준 | [2294](https://www.acmicpc.net/problem/2294) | DP 배열 설정시 동전의 금액이 k보다 클수 있으므로 배열 크기에 주의 |
 | 백준 | [2225](https://www.acmicpc.net/problem/2225) | DP는 long으로 초기화, D[i][j-1] + D[i-1][j-1] …D[i-2][j-1]…D[0][j-1] |
 | 백준 | [15989](https://www.acmicpc.net/problem/15989) | DP[i] = DP[i-1] + DP[i-2] - DP[i-3], i % 3 == 0이라면 +1도 |
+| 백준 | [9251](https://www.acmicpc.net/problem/9251) | 2차원 배열 DP, 2차원 배열 초기화 실수 주의하기 |
 | 백준 | [9084](https://www.acmicpc.net/problem/9084) | DP[i][j] : i번째 동전까지 썼을 때 j원 만들 수 있는 방법, 동전의 사용순서를 강제하여 같은 방법이 여러 번 카운트되는것 방지 |
+| 백준 | [12865](https://www.acmicpc.net/problem/12865) | i번째 아이템에 대해 계산할때는 i-1을 참고해야 함..DP[i][j] : i번째 물건까지 j의 무게일 때 가치 최대, 각 물건은 1개씩 있다는 조건 고려해야 해서 2차원 배열 사용 |
 
 ## Simulation
 | 플랫폼 | 문제 | 대략 설명 |
@@ -58,7 +60,6 @@
 | 백준 | [18808](https://www.acmicpc.net/problem/18808) | 배열 회전시키기, break-for 루프 중첩문 부분 로직 잘 살필것 : flag 방식으로 attached = true면 루프 나오기 |
 | 백준 | [12100](https://www.acmicpc.net/problem/12100) | 기존의 배열 회전시키기, 카메라 방향조합 찾기 재탕, tilt 메소드에 대해 다시 이해하기 |
 | 백준 | [15686](https://www.acmicpc.net/problem/15686) | 조합을 구하는 부분만 잘 기억하기 |
-| 백준 | [9251](https://www.acmicpc.net/problem/9251) | 2차원 배열 DP, 2차원 배열 초기화 실수 주의하기 |
 
 ## BinSearch 
 | 플랫폼 | 문제 | 대략 설명 |
